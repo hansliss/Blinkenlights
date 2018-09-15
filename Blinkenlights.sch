@@ -1397,4 +1397,101 @@ F 3 "" H 10350 2200 50  0001 C CNN
 	1    10350 2200
 	1    0    0    -1  
 $EndComp
+Text Label 7100 1550 0    60   ~ 0
+D0
+Text Label 7100 1650 0    60   ~ 0
+D1
+Text Label 7100 1750 0    60   ~ 0
+D2
+Text Label 7100 1850 0    60   ~ 0
+D3
+Text Label 7100 1950 0    60   ~ 0
+D4
+Text Label 7100 2050 0    60   ~ 0
+D5
+Text Label 7100 2150 0    60   ~ 0
+D6
+Text Label 7100 2250 0    60   ~ 0
+D7
+Text Label 7150 3200 0    60   ~ 0
+A0
+Text Label 7150 3300 0    60   ~ 0
+A1
+Text Label 7150 3400 0    60   ~ 0
+A2
+Text Label 7150 3500 0    60   ~ 0
+A3
+Text Label 7150 3600 0    60   ~ 0
+A4
+Text Label 7150 3700 0    60   ~ 0
+A5
+Text Label 7150 3800 0    60   ~ 0
+A6
+Text Label 7150 3900 0    60   ~ 0
+A7
+Text Label 7150 4900 0    60   ~ 0
+A8
+Text Label 7150 5000 0    60   ~ 0
+A9
+Text Label 7150 5100 0    60   ~ 0
+A10
+Text Label 7150 5200 0    60   ~ 0
+A11
+Text Label 7150 5300 0    60   ~ 0
+A12
+Text Label 7150 5400 0    60   ~ 0
+A13
+Text Label 7150 5500 0    60   ~ 0
+A14
+Text Label 7150 5600 0    60   ~ 0
+A15
+Connection ~ 4750 5000
+Text Label 9550 2450 0    60   ~ 0
+OD0
+Text Label 9550 2550 0    60   ~ 0
+OD1
+Text Label 9550 2650 0    60   ~ 0
+OD2
+Text Label 9550 2750 0    60   ~ 0
+OD3
+Text Label 9550 2850 0    60   ~ 0
+OD4
+Text Label 9550 2950 0    60   ~ 0
+OD5
+Text Label 9550 3050 0    60   ~ 0
+OD6
+Text Label 9550 3150 0    60   ~ 0
+OD7
+Text Label 9500 3250 0    60   ~ 0
+OA0
+Text Label 9500 3350 0    60   ~ 0
+OA1
+Text Label 9500 3450 0    60   ~ 0
+OA2
+Text Label 9500 3550 0    60   ~ 0
+OA3
+Text Label 9500 3650 0    60   ~ 0
+OA4
+Text Label 9500 3750 0    60   ~ 0
+OA5
+Text Label 9500 3850 0    60   ~ 0
+OA6
+Text Label 9500 3950 0    60   ~ 0
+OA7
+Text Label 9500 4050 0    60   ~ 0
+OA8
+Text Label 9500 4150 0    60   ~ 0
+OA9
+Text Label 9500 4250 0    60   ~ 0
+OA10
+Text Label 9500 4350 0    60   ~ 0
+OA11
+Text Label 9500 4450 0    60   ~ 0
+OA12
+Text Label 9500 4550 0    60   ~ 0
+OA13
+Text Label 9500 4650 0    60   ~ 0
+OA14
+Text Label 9500 4750 0    60   ~ 0
+OA15
 $EndSCHEMATC
